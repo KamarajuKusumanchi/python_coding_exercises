@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-15T11:10:03-04:00
+
+====== notes ======
+Created Monday 15 March 2021
+
+--------------------
+https://github.com/kyhau/small-coding-exercises
+* contains some coding exercises
+
+Likes:
+* code quality is good (ex:- https://github.com/kyhau/small-coding-exercises/blob/master/codility/binary_gap.py)
+* Uses pytest to test code (ex:- https://github.com/kyhau/small-coding-exercises/blob/master/codility/tests/test_binary_gap.py)
+* Has CI
+* well structured (ex:- exercises from different websites are grouped into different directories, nice readme file)
+
+Dislikes:
+* Not exclusive to Python
+--------------------
