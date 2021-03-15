@@ -1,2 +1,2 @@
-# python_coding_exercises
+# python coding exercises
 python coding exercises.
