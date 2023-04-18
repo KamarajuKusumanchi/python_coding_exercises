@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-04-18T00:04:55-04:00
+
+====== exercises ======
+Created Tuesday 18 April 2023
+
+--------------------
+today | 2023-04-18
+
+Q1. Write a Python program that calculates the sum of numbers from 1 to 10,000 (including 1 and 10,000) but omitting numbers that are divisible by three and also omitting numbers whose hundredth digit is 2 or 3 (e.g. 1201 or 3313).
+
+Q2. Write a Python program that calculates the sum of numbers from 1 to 10,000 (including 1 and 10,000) but omitting numbers where the hundredth digit is divisible by 3.
+
+Q3. Write a Python function which can invert the elements in an array of integers.
+
+Ref:- https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/
+--------------------
