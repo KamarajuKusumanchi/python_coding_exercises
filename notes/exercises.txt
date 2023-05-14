@@ -16,3 +16,10 @@ Q3. Write a Python function which can invert the elements in an array of integer
 
 Ref:- https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/
 --------------------
+
+--------------------
+today | 2023-05-13
+
+Q1. Write a program to  compute the monthly payment for a $200,000 mortgage
+over 20 years at 3% yearly interest
+--------------------
