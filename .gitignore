@@ -17,7 +17,7 @@ tags
 # The Python stuff is obtained from
 # https://github.com/github/gitignore/blob/master/Python.gitignore
 # Byte-compiled / optimized / DLL files
-__pycache__
+__pycache__/
 *.pyc
 
 # Unit test / coverage reports
@@ -27,3 +27,5 @@ __pycache__
 # Pycharm files
 .idea/
 
+# Jupyter Notebook
+.ipynb_checkpoints
