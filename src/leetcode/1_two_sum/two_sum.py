@@ -4,6 +4,8 @@ from typing import List
 # Keep the names of the class and function consistent with sample code in
 # https://leetcode.com/problems/two-sum/description/
 class Solution(object):
+    # Time: O(n)
+    # Space: O(n)
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         number_to_index_map = {}
 
