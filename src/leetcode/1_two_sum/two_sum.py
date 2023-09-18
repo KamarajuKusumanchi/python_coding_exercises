@@ -1,5 +1,6 @@
 from typing import List
 
+
 # Keep the names of the class and function consistent with sample code in
 # https://leetcode.com/problems/two-sum/description/
 class Solution(object):
@@ -13,4 +14,3 @@ class Solution(object):
                 return [complement_index, index]
             else:
                 number_to_index_map[number] = index
-
